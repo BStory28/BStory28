@@ -1,5 +1,5 @@
-## 我是学霸 👋
-集美大学 计算机工程学院 计算2111 张艺勇 
+## 我是..... 👋
+
 <!--
 **BStory28/BStory28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
